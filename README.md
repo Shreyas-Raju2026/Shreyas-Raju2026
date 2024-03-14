@@ -1,4 +1,4 @@
-##- Hi, I’m Shreyas Raju
+- ##Hi, I’m Shreyas Raju
 - I’m interested in Cybersecurity, Computer Science, and Computer Engineering
 - I’m currently learning more about penetration testing and Linux fundamentals along with comptuer coding.
 
